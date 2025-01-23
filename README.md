@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dachenna
 - 👀 I’m interested in web development
-- 👾I am also a game developer
-- 🌱 I’m currently learning JavaScript and node js
+- 👾I am also an animator
+- 🌱 I’m currently learning react and tailwind css
 - 💞️ I'm looking for possible hires to brush up my skills 
 - 📫 How to reach me on:
 - WhatsApp - +2349023561634
